@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GustavoFagundez/GustavoFagundez/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GustavoFagundez/GustavoFagundez/output/pacman-contribution-graph-dark.svg">
 </picture>
 
 ###
